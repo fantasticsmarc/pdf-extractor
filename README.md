@@ -1,6 +1,11 @@
 # PDF Extractor
 
 Extract text and data from PDF files.
+<br>
+<br>
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<br>
+<br>
 
 ## Features
 - Clean and simple design
